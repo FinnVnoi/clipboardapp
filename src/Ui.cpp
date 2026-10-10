@@ -1,7 +1,7 @@
 #include "Ui.h"
 
 #include <Shellapi.h>
-#include <gdiplus/gdiplus.h>
+#include <gdiplus.h>
 
 #include <algorithm>
 #include <cstdio>
