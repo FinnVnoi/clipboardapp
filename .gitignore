@@ -1,4 +1,6 @@
 /build/
 /cmake-build-*/
+/build-cmake/
+.vs/
 *.o
 *.obj
